@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56967864550",
+    "project_id": "timebook-3c26c",
+    "storage_bucket": "timebook-3c26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56967864550:android:cbc98abbe9c00218965b27",
+        "android_client_info": {
+          "package_name": "com.example.timebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3eKVuomh7xIFdSerBQ0Vw1qtHilnCjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
